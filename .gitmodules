@@ -1,0 +1,3 @@
+[submodule "FinChatBackend"]
+	path = FinChatBackend
+	url = https://github.com/vardhan998997/FinChatBackend.git
